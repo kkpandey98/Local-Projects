@@ -1,0 +1,10 @@
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe.config
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\bin\Debug\ReadWrite.pdb
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\bin\Debug\ClassLibrary2.dll
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\bin\Debug\ClassLibrary2.pdb
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csprojAssemblyReference.cache
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.CopyComplete
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Users\Kamal Pandey\Desktop\Programs\Csharp\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb
