@@ -3,4 +3,5 @@ export interface Item {
     price? : number;
     isDiscount? : boolean;
     description? : string;
+    
 }

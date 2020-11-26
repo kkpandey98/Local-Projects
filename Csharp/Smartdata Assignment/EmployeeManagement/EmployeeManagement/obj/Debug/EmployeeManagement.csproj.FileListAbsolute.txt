@@ -1,7 +1,0 @@
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb

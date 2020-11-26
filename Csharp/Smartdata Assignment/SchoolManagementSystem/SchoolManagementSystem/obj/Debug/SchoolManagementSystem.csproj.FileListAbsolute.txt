@@ -1,7 +1,0 @@
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
-C:\Users\Kamal Pandey\Desktop\Programs\Csharp\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
